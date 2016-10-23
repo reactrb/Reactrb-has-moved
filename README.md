@@ -2,5 +2,6 @@
 
 Reactrb is alive and well. Renamed Hyper-react and evolving as a core gem in the Ruby Hyperloop umbrella project.
 
-Ruby Hyperloop website: http://ruby-hyperloop.io/
+Website: http://ruby-hyperloop.io/
+Github repo: https://github.com/ruby-hyperloop.io
 
